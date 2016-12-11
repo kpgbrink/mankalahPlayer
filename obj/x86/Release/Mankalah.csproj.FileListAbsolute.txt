@@ -1,0 +1,4 @@
+C:\Users\Kristofer\Desktop\prog5\bin\Release\ConsoleApplication.exe
+C:\Users\Kristofer\Desktop\prog5\bin\Release\ConsoleApplication.pdb
+C:\Users\Kristofer\Desktop\prog5\obj\x86\Release\ConsoleApplication.exe
+C:\Users\Kristofer\Desktop\prog5\obj\x86\Release\ConsoleApplication.pdb

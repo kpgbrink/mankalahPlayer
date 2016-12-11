@@ -1,0 +1,6 @@
+C:\Users\Kristofer\Desktop\prog5\kpb23Player\bin\Debug\kpb23Player.dll
+C:\Users\Kristofer\Desktop\prog5\kpb23Player\bin\Debug\kpb23Player.pdb
+C:\Users\Kristofer\Desktop\prog5\kpb23Player\bin\Debug\MankalahLib.dll
+C:\Users\Kristofer\Desktop\prog5\kpb23Player\obj\Debug\kpb23Player.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\prog5\kpb23Player\obj\Debug\kpb23Player.dll
+C:\Users\Kristofer\Desktop\prog5\kpb23Player\obj\Debug\kpb23Player.pdb

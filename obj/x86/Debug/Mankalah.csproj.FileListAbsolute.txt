@@ -1,0 +1,5 @@
+C:\Users\Kristofer\Desktop\prog5\obj\x86\Debug\Mankalah.csprojResolveAssemblyReference.cache
+C:\Users\Kristofer\Desktop\prog5\bin\Debug\ConsoleApplication.exe
+C:\Users\Kristofer\Desktop\prog5\bin\Debug\ConsoleApplication.pdb
+C:\Users\Kristofer\Desktop\prog5\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Kristofer\Desktop\prog5\obj\x86\Debug\ConsoleApplication.pdb
